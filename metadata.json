@@ -1,0 +1,5 @@
+{
+  "name": "AI Teaching Platform",
+  "description": "A comprehensive AI teaching platform visualizing Finance (Graph Neural Networks), TCM (Large Language Models), and Computer Vision (MobileNetV2).",
+  "requestFramePermissions": []
+}
